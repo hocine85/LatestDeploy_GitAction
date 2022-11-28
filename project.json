@@ -37,7 +37,9 @@
       "privateWorkflows": []
     },
     "processOptions": {
-      "ignoredFiles": []
+      "ignoredFiles": [
+        ".github/workflows/Prod_Environment.yml"
+      ]
     },
     "fileInfoCollection": [
       {
