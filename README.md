@@ -3,7 +3,7 @@
 [REFrameWork Documentation](https://github.com/UiPath/ReFrameWork/blob/master/Documentation/REFramework%20documentation.pdf)
 
 ### REFrameWork Template ###
-**Robotic Enterprise Framework**
+**Robotic Enterprise Framework** 
 
 * Built on top of *Transactional Business Process* template
 * Uses *State Machine* layout for the phases of automation project
