@@ -9,4 +9,4 @@ on:
   workflow_dispatch:
 jobs:
   job1:
-    uses: hocine85/Scripts/.github/workflows/reusable_test.yml@main 
+    uses: hocine85/Scripts/.github/workflows/reusable_test.yml@main
